@@ -6,3 +6,6 @@ Ce projet a été réalisé dans le cadre d'un exercice pratique de découverte 
 - README.md : présentation du projet
 - index.html : une page web simple
 - notes.txt : notes personnelles sur Git
+
+## Auteur
+Projet réalisé par Magatte dans le cadre de mon stage.
