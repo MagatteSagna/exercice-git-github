@@ -1,0 +1,4 @@
+Mes notes sur Git :
+- Git est un outil de gestion de versions.
+- Il permet de garder l'historique des modifications d'un projet.
+- Les commandes de base : git init, git add, git commit, git status.
